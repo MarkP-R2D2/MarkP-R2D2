@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning how to use GITHUB properly :))) 
 <!--
 **MarkP-R2D2/MarkP-R2D2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
